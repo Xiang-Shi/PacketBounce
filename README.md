@@ -7,7 +7,7 @@ The modified version of Inet (as reference project for PacketBounce)
  
 ### (2) "PacketBounce" repository: 
 
-PacketBounce Project source code
+link layer PacketBounce Project source code
 
 ## 2. How to set up simulation in OMNet++ ?
 ###  (1) Import "Inet" and "PacketBounce"
